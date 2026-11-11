@@ -1,0 +1,7 @@
+datum,setup,daten,fenster_mez,n,trefferquote,erwartung_pct_nach_gebuehren,is_pct,oos_pct,urteil
+2026-11-11,Regeln >=4/5 inkl BTC-Trend short,Binance 1h 8 Token ~83d,09-16,101,33.7,-0.29,-0.17,-0.40,verwerfen
+2026-11-11,Regeln >=4/5 inkl BTC-Trend long,Binance 1h 8 Token ~83d,09-16,92,30.4,-0.51,-0.12,-0.90,verwerfen
+2026-11-11,Bear-Short ohne Filter hold,Binance 1h 8 Token ~83d,09-16,313,44.4,-0.37,-0.09,-0.65,verwerfen
+2026-11-11,EMA50-Pullback short,Binance 1h 8 Token ~83d,09-16,53,37.7,-0.14,-0.22,-0.06,verwerfen
+2026-11-11,Breakdown <Vortagestief Vol>1.5x short,Binance 1h 8 Token ~83d,09-16,13,38.5,0.26,-0.59,0.99,beobachten
+2026-11-11,Oversold bounce RSI<30 long,Binance 1h 8 Token ~83d,09-16,22,54.5,0.27,-0.62,1.17,beobachten

@@ -1,0 +1,5 @@
+datum,uhrzeit_mez,token,richtung,setup_typ,btc_regime,volumen_faktor,funding,rsi_1h,score_5,konfidenz,trigger,einstieg,stop_loss,tp1,tp2,positionsgroesse_usd,risiko_usd,status,ergebnis_usd,ergebnis_r,mae,mfe,gebuehren_okx_usd,notiz
+2026-11-11,08:15,-,-,NO-TRADE,bearish (4h EMA50<200; F&G 26),-,+0.005%,-,-,-,-,-,-,-,-,0,0,kein Trade,0,0,-,-,0,Regel-Backtest negativ (n=101 short -0.29%/Trade nach Gebuehren); ZEC/UNI RSI<27
+2026-11-11,08:15,XRP,short,WATCH breakdown <1.00 + Vol>1.5x,bearish,0.67,+0.005%,40.2,3,<70%,1.030,-,1.048,0.9984,0.9772,0,0,watchlist,,,,,,ETF-Abfluesse + Schwartz-Verkaeufe; Ausgang am Abend nachtragen
+2026-11-11,08:15,UNI,short,WATCH VWAP-Retest 6.61,bearish,2.11,+0.005%,26.5,4,<70%,6.412,-,6.585,6.099,5.891,0,0,watchlist,,,,,,ueberverkauft; nur nach Ruecklauf
+2026-11-11,08:15,ZEC,long,WATCH oversold bounce (gegen Trend),bearish,1.02,+0.005%,24.9,4,<70%,-,-,-,-,-,0,0,watchlist,,,,,,nur wenn BTC ueber VWAP dreht
