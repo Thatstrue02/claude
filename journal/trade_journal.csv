@@ -1,0 +1,4 @@
+datum,uhrzeit_mez,token,richtung,setup_typ,btc_regime,fear_greed,volumen_faktor_1h,funding_8h,oi_24h_pct,einstieg,stop_loss,tp1,tp2,konfidenz_pct,ausgefuehrt,exit_preis,exit_uhrzeit,mae_pct,mfe_pct,gebuehren_okx_usd,ergebnis_usd,bemerkung
+2026-11-12,08:10,ETH,short,EMA20/VWAP-Pullback,bearish,26,0.18,0.0050%,0.3,2058,2077,2024,2001,62,nein,,,,,,0,Watchlist - Konfidenz <70% kein Trade
+2026-11-12,08:10,SOL,short,EMA20/VWAP-Pullback,bearish,26,0.12,0.0007%,-0.3,83.45,84.40,81.73,80.59,60,nein,,,,,,0,Watchlist - Konfidenz <70% kein Trade
+2026-11-12,08:10,ENA,short,EMA20-Pullback,bearish,26,0.19,0.0008%,2.8,0.1468,0.1496,0.1417,0.1383,58,nein,,,,,,0,Watchlist - Konfidenz <70% kein Trade
