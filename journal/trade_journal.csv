@@ -1,0 +1,2 @@
+datum,uhrzeit_mez,token,richtung,setup_typ,btc_regime,fear_greed,volumen_faktor,funding,einstieg,stop_loss,tp1,tp2,positionsgroesse_usd,ergebnis_usd,mae_pct,mfe_pct,gebuehren_okx_usd,status,notiz
+2026-11-17,08:15,-,-,-,bearish/range,13,-,-,-,-,-,-,0,0,-,-,0,KEIN_TRADE,"Kein Setup >=70% Konfidenz; kein 1h-Golden-Cross im Top150; Binance-Backtest nicht verfuegbar"
