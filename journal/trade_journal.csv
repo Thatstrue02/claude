@@ -1,0 +1,4 @@
+datum,uhrzeit_mez,token,richtung,setup_typ,status,btc_regime,konfidenz_pct,volumen_faktor,funding_pct,einstieg,stop_loss,tp1,tp2,ergebnis_usd,mae,mfe,gebuehren_okx_usd,trigger_ausgeloest,notiz
+2026-11-23,08:15,ETH,short,pullback_ema_resistance,bedingt,bounce_im_abwaertstrend,62,,-0.004,1762,1784,1722,1697,,,,1.0,offen,"Trigger 09:00-10:30: Ablehnung 1752-1770 + 15m-Close <1750"
+2026-11-23,08:15,BTC,short,pullback_ema_resistance,bedingt,bounce_im_abwaertstrend,60,,0.003,62700,63450,61350,60400,,,,1.0,offen,"Trigger 09:00-10:30: Ablehnung 62500-62900 + 15m-Close <62400"
+2026-11-23,08:15,-,-,-,kein_unbedingter_trade,bounce_im_abwaertstrend,,,,,,,,0,,,0,-,"F&G 9; kein Golden Cross 1h; US-PMI 15:45 MEZ; Binance-MCP nicht autorisiert -> kein Backtest"
