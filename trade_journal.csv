@@ -1,0 +1,3 @@
+datum,uhrzeit_signal,token,richtung,setup_typ,btc_regime,volumen_faktor,funding_8h,konfidenz,entry,stop_loss,tp1,tp2,positionsgroesse_usd,fill_uhrzeit,exit_preis,exit_uhrzeit,ergebnis_usd,mae_pct,mfe_pct,gebuehren_okx_usd,status,notiz
+2026-11-24,08:15,ZEC,short,pullback_vwap_ema50_1h,bearish,0.23,-0.0011%,70,776,792,742,720,500,,,,,,,,geplant,Trigger bis 10:30; alt. Breakdown <742 -> 740/SL 758
+2026-11-24,08:15,BNB,short,retest_ema50_1h,bearish,0.22,0.0000%,70,556,561.8,545,538,500,,,,,,,,geplant,Trigger bis 10:30; alt. Breakdown <544 -> 543/SL 550
