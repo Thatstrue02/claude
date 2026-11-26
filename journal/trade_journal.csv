@@ -1,0 +1,5 @@
+datum,uhrzeit_utc,token,richtung,setup_typ,btc_regime,volumen_faktor,funding_8h,einstieg,stop_loss,tp1,tp2,konfidenz,status,ergebnis_usd,mae,mfe,gebuehren_okx_usd,notiz
+2026-11-26,07:15,-,-,-,bearish (4h<EMA50/200; F&G 10),-,-,-,-,-,-,-,NO_TRADE,0,-,-,0,Thanksgiving; kein Setup >=70%; Backtest nicht moeglich (API-Limits)
+2026-11-26,07:15,ZEC,short,breakdown Tagestief+VWAP-Reject,bearish,0.87,0.0100%,744,763,724,700,60%,WATCHLIST,,,,,bedingt: nur bis 10:30 MEZ und BTC<59900
+2026-11-26,07:15,ENA,short,Fib38.2-Bruch,bearish,0.48,0.0014%,0.0989,0.1012,0.0957,0.0930,50%,WATCHLIST,,,,,Momentum widerspricht
+2026-11-26,07:15,ETH,short,Support-Bruch unter VWAP,bearish,0.41,0.0041%,1680,1700,1655,1630,55%,WATCHLIST,,,,,kein Volumen
